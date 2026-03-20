@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Julissa-Cooper/Julissa-Cooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    Mi nombre es Julissa 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Tengo 20 años
+- 🌱 me gusta el voley ball
+- 👯 me gusta el gym
+- 🤔 me gustan los deportes
+- 💬  estoy estudiando  en informatica 
+- 📫 me gusta leer
+- 😄Estudie en Costa Rica 10 años
+- ⚡ me gusta aprender
+
