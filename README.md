@@ -1,6 +1,6 @@
 
 
-    Mi nombre es Julissa 
+    Mi nombre es Julissa Cooper
 
 - 🔭 Tengo 20 años
 - 🌱 me gusta el voley ball
